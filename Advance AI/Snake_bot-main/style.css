@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#gameContainer{
+    text-align: center;
+}
+#center{
+    width: cover;
+    height: 100vh;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#gameBoard{
+    border: 4px solid;
+}
+
+#scoreText{
+    font-size: 50px;
+}
+#resetBtn{
+    font-size: 20px;
+    width: 100px;
+    height: 50px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+#gameContainer1{
+    padding-top: 20px;
+    text-align: center;
+}
+
+#gameBoard1{
+    border: 4px solid;
+}
+
+#scoreText1{
+    font-size: 50px;
+}
+#resetBtn1{
+    font-size: 20px;
+    width: 100px;
+    height: 50px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+#score_max{
+    font-size: 60px;
+}
